@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Shimmer Layout</string>
+    <string name="ennoble_soft">Ennoble Soft</string>
+    <string name="mob_number">+8801683505006</string>
+    <string name="img_description">logo</string>
+    <string name="timeout_error">Server Timeout</string>
+    <string name="no_connection_error">No Connection</string>
+    <string name="auth_failure_error">Auth Failure</string>
+    <string name="server_error">Server Error</string>
+    <string name="network_error">Network Error</string>
+    <string name="parse_error">Parse Error</string>
+    <string name="other_volley_error">Volley Error</string>
+    <string name="json_exception">JSON Exception</string>
+</resources>
